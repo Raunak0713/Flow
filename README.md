@@ -13,3 +13,12 @@
 #### **Commit #2** : [Dependency Fix]  
 - Resolved conflicting dependencies to ensure compatibility and stability.
 - Updated package versions to prevent module resolution errors.
+
+#### **Commit #3** : [Sidebar Enhancement & Logo Integration]  
+- Implemented a project sidebar with hover effects  
+- Designed and integrated the website logo  
+
+#### **Commit #4** : [Dark Mode Integration & Breadcrumbs Enhancement]  
+- Implemented Dark Mode support  
+- Added website navigation links  
+
