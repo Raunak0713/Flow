@@ -22,3 +22,6 @@
 - Implemented Dark Mode support  
 - Added website navigation links  
 
+#### **Commit #5** : [Mobile Sidebar & Custom 404 Page]  
+- Developed a responsive mobile sidebar with a collapsible menu for better navigation on smaller screens  
+- Implemented a custom 404 page to enhance user experience when accessing non-existent routes  
